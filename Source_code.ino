@@ -1,7 +1,7 @@
 
 /* https://arduino.esp8266.com/stable/package_esp8266com_index.json
  * ESP8266 as Web Server using WiFi Access Point (AP) mode
- * Connect to AP "Chitti", password = "87654321"
+ * Connect to AP "Chitti", password = ""
  */
 
 #include <ESP8266WiFi.h>
