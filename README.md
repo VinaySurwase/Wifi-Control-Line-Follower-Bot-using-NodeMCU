@@ -109,6 +109,10 @@ This project features a versatile bot that can be controlled via WiFi using a No
 - **Code Upload Failures**: Verify the correct board and port are selected in the Arduino IDE.
 - **Line Following Issues**: Ensure the IR sensors are correctly positioned and calibrated.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Contact
 
 For any issues or inquiries, please open an issue in this repository.
